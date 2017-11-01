@@ -5,3 +5,4 @@
 . grubCustomizer.sh
 
 sudo apt -y install mvn
+sudo apt -y install vim

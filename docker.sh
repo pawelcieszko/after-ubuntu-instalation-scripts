@@ -22,5 +22,8 @@ sudo apt-get update
 sudo apt-get install docker-ce
 sudo systemctl enable docker
 
+sudo groupadd docker
+sudo usermod -aG docker `whoami`
+
 #rm -r ~/tmpInstalation
 

@@ -7,6 +7,7 @@ sudo apt-get update
 . redshift.sh
 . psensor.sh
 
+sudo apt -y install chromium-browser
 sudo apt -y install mvn
 sudo apt -y install vim
 sudo apt -y install default-jre

@@ -1,5 +1,5 @@
 #!/bin/bash
 
-add-apt-repository ppa:eugenesan/ppa
-apt-get update
-apt-get install psensor -y
+sudo add-apt-repository ppa:eugenesan/ppa
+sudo apt-get update
+sudo apt-get -y install psensor

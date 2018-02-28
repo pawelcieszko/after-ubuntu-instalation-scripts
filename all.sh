@@ -9,7 +9,6 @@ sudo apt-get update
 
 sudo apt -y install chromium-browser
 sudo apt -y install maven
-sudo apt -y install gradle
 sudo apt -y install vim
 sudo apt -y install default-jre
 sudo apt -y install default-jdk

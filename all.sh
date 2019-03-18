@@ -6,6 +6,7 @@ sudo apt-get update
 . git.sh
 . redshift.sh
 . psensor.sh
+. resumeWifiIssueFix.sh
 
 sudo apt -y install chromium-browser
 sudo apt -y install maven

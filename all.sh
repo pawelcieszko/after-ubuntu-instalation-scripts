@@ -20,3 +20,4 @@ sudo apt -y install terminator
 sudo snap install slack --classic
 sudo snap install intellij-idea-community --classic --edge
 sudo snap install skype --classic
+sudo snap install --classic vscode

@@ -1,0 +1,11 @@
+dia
+jmeater
+git
+intellij
+dbeaver
+postman
+skype
+franz
+vscode
+(16.04) → gsettings set com.canonical.Unity.Launcher launcher-position Bottom
+sudo apt-get install dconf-editor

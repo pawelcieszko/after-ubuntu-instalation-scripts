@@ -22,9 +22,10 @@ sudo apt -y install terminator
 gsettings set org.gnome.desktop.default-applications.terminal exec terminator # terminator as default
 sudo apt -y install npm
 sudo apt -y install gradle
+sudo apt -y install nodejs
 
 sudo snap install slack --classic
-sudo snap install intellij-idea-community --classic --edge
+sudo snap install intellij-idea-community --classic
 sudo snap install skype --classic
 sudo snap install --classic vscode
 

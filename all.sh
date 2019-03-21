@@ -17,6 +17,8 @@ sudo apt -y install vim
 
 sudo apt -y install openjfx # JavaFX
 sudo apt -y install mysql-workbench # TODO: to replace
+sudo apt -y install postgresql-client-common
+sudo apt -y install postgresql-client
 sudo apt -y install mc
 sudo apt -y install terminator
 gsettings set org.gnome.desktop.default-applications.terminal exec terminator # terminator as default
@@ -29,6 +31,3 @@ sudo snap install intellij-idea-community --classic
 sudo snap install skype --classic
 sudo snap install --classic vscode
 
-# wired network as default (wireless is disabled when plugged)
-sudo cp data/99-disable-wireless-when-wired.sh /etc/NetworkManager/dispatcher.d/99-disable-wireless-when-wired.sh
-sudo chmod +x /etc/NetworkManager/dispatcher.d/99-disable-wireless-when-wired.sh

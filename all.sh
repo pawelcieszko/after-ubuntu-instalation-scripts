@@ -25,6 +25,7 @@ gsettings set org.gnome.desktop.default-applications.terminal exec terminator # 
 sudo apt -y install npm
 sudo apt -y install gradle
 sudo apt -y install nodejs
+sudo apt -y install unrar
 
 sudo snap install slack --classic
 sudo snap install intellij-idea-community --classic

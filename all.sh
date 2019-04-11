@@ -30,5 +30,5 @@ sudo apt -y install unrar
 sudo snap install slack --classic
 sudo snap install intellij-idea-community --classic
 sudo snap install skype --classic
-sudo snap install --classic vscode
+sudo snap install --classic code
 

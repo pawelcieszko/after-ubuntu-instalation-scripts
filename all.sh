@@ -37,4 +37,5 @@ sudo add-apt-repository ppa:peek-developers/stable
 sudo apt-get update
 sudo apt -y install grub-customizer
 sudo apt -y install peek
+sudo snap install spotify
 

@@ -32,3 +32,10 @@ sudo snap install intellij-idea-community --classic
 sudo snap install skype --classic
 sudo snap install --classic code
 
+sudo add-apt-repository ppa:danielrichter2007/grub-customizer
+sudo add-apt-repository ppa:peek-developers/stable
+sudo apt-get update
+sudo apt -y install grub-customizer
+sudo apt -y install peek
+sudo snap install spotify
+
